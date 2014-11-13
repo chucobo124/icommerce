@@ -1,3 +1,9 @@
+#Apple Gitignore
+
+*.DS_Store
+
+# Word Press Gitignore
+
 *.log
 .htaccess
 sitemap.xml
